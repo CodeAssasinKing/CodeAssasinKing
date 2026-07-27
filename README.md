@@ -4,23 +4,16 @@ I'm a passionate developer with experience in both backend and frontend developm
 💻 Skills
 Languages: Python, JavaScript, HTML, CSS
 
-Frameworks: Django, Node.js
+Frameworks: Django, React, FastAPI, Flask
 
-Databases: PostgreSQL
+Databases: PostgreSQL, SQLite3
 
-Tools & Libraries: Bootstrap
+Tools & Libraries: Bootstrap, TailwindCSS
 
 Other: REST APIs, Responsive Web Design
 
-🚀 Current Projects
-
-Project Name: Brief description of what this project does or its goals.
-Another Project: Brief description of what this project does or its goals.
-
 🌱 What I'm Learning
-Exploring advanced features of Django and Node.js.
-
-Delving deeper into front-end frameworks and modern JavaScript libraries.
+Building AI tools and bots
 
 🎯 Interests
 
