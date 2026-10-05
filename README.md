@@ -12,15 +12,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👤 Profile
 
-- 🔭 **Focus:** Designing and deploying responsive, high-performance web applications and backend APIs.
-- 🌱 **Currently Exploring:** Integrating LLMs, autonomous bot architectures, and AI-driven automation workflows.
-- ⚡ **Strengths:** Clean code design, relational database modeling, and RESTful API engineering.
-- 💡 **Philosophy:** Continuous experimentation, contributing to open-source software, and solving real-world edge cases.
-- 🍿 **Off-Duty:** Sci-fi enthusiast, avid tech blog reader, and competitive coding challenge solver.
-
----
+- 🎯 **Primary Focus:** Designing and deploying responsive, high-performance web applications and backend APIs.
+- 🧠 **R&D & Exploration:** Integrating LLMs, autonomous bot architectures, and AI-driven automation workflows.
+- 🛠️ **Core Competencies:** Clean code design, relational database modeling, and RESTful API engineering.
+- 🧭 **Engineering Principles:** Continuous experimentation, open-source contribution, and robust edge-case handling.
+- ☕ **Beyond the Terminal:** Sci-fi enthusiast, avid tech publication reader, and algorithmic problem-solver.
 
 ### 🛠️ Tech Stack & Tooling
 
@@ -50,12 +48,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Romik's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeassasinking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Romik's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeassasinking&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeassasinking&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
