@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm ChinGiz (nickname) 👋</h1>
+  <h1>Hi, I'm ChinGiz 👋</h1>
   <p><strong>Full-Stack Developer | Python & JavaScript Ecosystems</strong></p>
   <p>Building scalable, robust web architectures and intelligent automated systems.</p>
 
